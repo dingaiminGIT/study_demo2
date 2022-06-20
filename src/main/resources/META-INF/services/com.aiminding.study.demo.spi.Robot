@@ -1,0 +1,1 @@
+com.aiminding.study.demo.spi.OptimusPrime

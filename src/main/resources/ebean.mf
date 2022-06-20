@@ -1,0 +1,3 @@
+entity-packages: com.aiminding.study.demo.domain
+transactional-packages: com.aiminding.study.demo.service
+querybean-packages: none
